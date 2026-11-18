@@ -33,7 +33,7 @@ WARNING: 6
 INFO: 12
 SUM OF STRINGS: 39
 Frequent mistakes:
-   6 2026-07-01 10:00:10 ERROR too much requests
+   6 2026-07-01 10:00:10 ERROR too many requests
    6 2026-07-01 10:00:07 ERROR timeout
    6 2026-07-01 10:00:03 ERROR connection failed
 log around of errwar:
